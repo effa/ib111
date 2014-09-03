@@ -27,7 +27,7 @@ Tutoriály a učebnice Pythonu
 * [Interaktivní učebnice (interactivepython.org)](http://interactivepython.org/runestone/static/thinkcspy/toc.html#t-o-c)
 * [Česká učebnice programování v Pythonu](http://howto.py.cz/index.htm)
 * [Google's Python Class](https://developers.google.com/edu/python/)
-* [Videotutoriály -- základy Pythonu](http://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
+* [Videotutoriály &ndash; základy Pythonu](http://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
 
 Online kurzy Pythonu
 --------------------
@@ -51,11 +51,11 @@ Zdroje úloh k procvičení
 Věda v Pythonu
 --------------
 * [Python Scientific Lecture Notes](http://scipy-lectures.github.io/)
-* [Matplotlib (kreslení grafů) -- tutoriál](http://www.loria.fr/~rougier/teaching/matplotlib/)
-* [Matplotlib -- galerie grafů](http://matplotlib.org/gallery.html)
-* [Sage -- matematika](http://www.sagemath.org/doc/tutorial/)
-* [SymPy -- symbolické (algebraické) výpočty](http://docs.sympy.org)
-* [NLTK -- zpracování přirozeného jazyka](http://www.nltk.org/)
+* [Matplotlib (kreslení grafů) &ndash; tutoriál](http://www.loria.fr/~rougier/teaching/matplotlib/)
+* [Matplotlib &ndash; galerie grafů](http://matplotlib.org/gallery.html)
+* [Sage &ndash; matematika](http://www.sagemath.org/doc/tutorial/)
+* [SymPy &ndash; symbolické (algebraické) výpočty](http://docs.sympy.org)
+* [NLTK &ndash; zpracování přirozeného jazyka](http://www.nltk.org/)
 
 
 Webovky v Pythonu

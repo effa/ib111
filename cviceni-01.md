@@ -38,7 +38,7 @@ for cislo in range(4):
     print cislo
 ```
 
-[for cyklus krok za krokem][1]
+▶ [for cyklus krok za krokem][1]
 [1]: http://pythontutor.com/visualize.html#code=for+cislo+in+range(4)%3A%0A++++print+cislo&mode=display&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&drawParentPointers=false&textReferences=false&showOnlyOutputs=false&py=2&rawInputLstJSON=%5B%5D&curInstr=0
 
 #### Funkce
@@ -52,7 +52,7 @@ def obvod_ctverce(strana):
 40
 ```
 
-[volání funkce krok za krokem][2]
+▶ [volání funkce krok za krokem][2]
 [2]: http://pythontutor.com/visualize.html#code=def+obvod_ctverce(strana)%3A%0A++++return+4+*+strana%0A%0Aobvod_ctverce(3)%0Aobvod_ctverce(10)&mode=display&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&drawParentPointers=false&textReferences=false&showOnlyOutputs=false&py=2&rawInputLstJSON=%5B%5D&curInstr=0
 
 #### Matematicka knihovna
@@ -69,7 +69,7 @@ print pi
 ```
 
 #### Ukázkový program
-Ukázkový program (seznamovaci hra -- vytváření sítě):
+Ukázkový program (vytváření sítě):
 [seznameni.py](https://github.com/effa/ib111/blob/master/seznameni.py)
 
 ### První úloha: Opakování
@@ -125,7 +125,7 @@ def tecko(velikost):
 >>> tecko(200)
 ```
 
-[dokumentace knihovny turtle](http://docs.python.org/library/turtle.html)
+▶  [dokumentace knihovny turtle](http://docs.python.org/library/turtle.html)
 
 ### Jednoduché obrázky
 Nejprve si zkuste nakreslit nejaké jednoduché obrázky jako trojúhelník, čtverec nebo domeček.
