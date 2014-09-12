@@ -44,6 +44,7 @@ Učení (počítačovou) hrou
 Zdroje úloh k procvičení
 ------------------------
 * [Programátorská cvičebnice](http://www.radekpelanek.cz/?progcvic)
+* [HackerRank &ndash; programming challanges](https://www.hackerrank.com)
 * [Problem Solving Tutor](http://tutor.fi.muni.cz/)
 * [Project Euler](http://projecteuler.net/)
 * [Python Challange](http://www.pythonchallenge.com/)
