@@ -1,4 +1,4 @@
-# Domací úloha 1
+# Domácí úloha 1
 
 **soft deadline: neděle 28. 9.**
 (hard deadline: neděle 5. 10.)
