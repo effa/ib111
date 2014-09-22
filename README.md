@@ -10,8 +10,7 @@ Ankety: [socrative.com](http://b.socrative.com/login/student/) (classroom: ib111
 
 Úkoly
 -----
-již brzy ...
-
+* [1. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-01.md)
 
 Základní zdroje informací
 -------------------------
