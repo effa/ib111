@@ -3,7 +3,7 @@
 **soft deadline: neděle 28. 9.**
 (hard deadline: neděle 5. 10.)
 
-* Úloha se skladá z 5 příkladů, za každý můžete získat 4 body, takže celkem až
+* Úloha se skládá z 5 příkladů, za každý můžete získat 4 body, takže celkem až
   20 bodů.
 * Pro absolvování předmětu je potřeba odevzdat všechny úlohy a celkově z úloh
   získat alespoň 80 bodů.
@@ -74,7 +74,7 @@ obdélníku pomocí různých znaků.
 
 ## Diamant
 
-Funkce `diamant(n)` vykreslí diamant (pootočený čtverec) o straně délky n.
+Funkce `diamant(n)` vykreslí diamant (kosočtverec) o straně délky n.
 
     def diamant(n):
 
