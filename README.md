@@ -5,6 +5,7 @@ Cvičení
 --------------------
 * [1. cvičení](https://github.com/effa/ib111/blob/master/cviceni-01.md)
 * [2. cvičení](https://github.com/effa/ib111/blob/master/cviceni-02.md)
+* [3. cvičení](https://github.com/effa/ib111/blob/master/cviceni-03.md)
 
 Ankety: [socrative.com](http://b.socrative.com/login/student/) (classroom: ib111)
 
