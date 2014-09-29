@@ -7,10 +7,11 @@
   20 bodů.
 * Pro absolvování předmětu je potřeba odevzdat všechny úlohy a celkově z úloh
   získat alespoň 80 bodů.
-* Odevzdejte jediný soubor `uloha-01.py` s definicemi požadovaných funkcí.
+* Odevzdejte jediný soubor `uloha01.py` s definicemi požadovaných funkcí.
 * Funkce pojmenujte stejně, jako je v zadání.
 * Pište přehledný kód, používejte vhodná jména proměnných a případné složitější
   konstrukce opatřete komentářem.
+* Nepoužívejte diakritiku (ani v komentářích).
 * Pokud se vám nějakou úlohu nepodaří úplně vyřešit, napište alespoň část
   řešení a popište váš problém.
 * Pracujte samostatně, za opisování je -30 bodů.

@@ -57,7 +57,7 @@
 
     def nsd(a, b): ...
 
-    >> nsd(6, 8)
+    >>> nsd(6, 8)
     2
     >>> nsd(15, 8)
     1
@@ -76,10 +76,10 @@
 ## Číselné řady
 
 Napište funkci pro výpočet sinu zadaného úhlu (v radiánech) pomocí
-[Tylerovy řady](http://cs.wikipedia.org/wiki/Taylorova_%C5%99ada)
+[Taylerovy řady](http://cs.wikipedia.org/wiki/Taylorova_%C5%99ada)
 (sekce Příklady Taylorova rozvoje: sin x) s přesností na tisíciny.
 
-    def sinus(x):...
+    def sinus(x): ...
 
     >>> sinus(1.2)
     0.932
