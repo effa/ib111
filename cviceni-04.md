@@ -17,7 +17,7 @@ základní statistiky &ndash; minimum, maximum a průměr.
 
     def statistiky(pocet, spodni_mez=0, horni_mez=100): ...
 
-    >>> nahodna_cisla(20, 0, 100)
+    >>> statistiky(20, 0, 100)
     77 30 58 61 78 18 11 10 98 24 38 35 26 20 17 61 38 16 25 57
     minimum: 10
     maximum: 98
