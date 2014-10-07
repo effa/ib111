@@ -53,7 +53,7 @@ průběh hry vypisovat. Návratovou hodnotou funkce je počet kol.
 Napište funkci, která vypočítá průměrnou délku hry na plánu velikosti
 `pocet_poli`. Počet pokusů, který se k výpočtu použije, je také parametrem
 funkce. Funkce pro analýzu hry bude volat funkci `hra_clovece()` s parametrem
-`vypis` nastaveným na `False`. Do řešení přilože výpis průměrné délky hry pro
+`vypis` nastaveným na `False`. Do řešení přiložte výpis průměrných délek her pro
 plány o velikosti 1 &ndash; 50.
 
     >>> analyza_clovece(20, 1000)
@@ -77,7 +77,7 @@ def analyza_clovece(pocet_poli, pocet_opakovani):
     pass
 
 
-# pridejte kod pro vypis prumerne delky hry na planech o velikostech 1-50,
+# pridejte kod pro vypis prumernych delek her na planech o velikostech 1-50,
 # vzdy na zaklade 100 pokusu
 ```
 
