@@ -8,6 +8,14 @@ Cvičení
 * [3. cvičení](https://github.com/effa/ib111/blob/master/cviceni-03.md)
 * [4. cvičení](https://github.com/effa/ib111/blob/master/cviceni-04.md)
 * [5. cvičení](https://github.com/effa/ib111/blob/master/cviceni-05.md)
+* [6. cvičení](https://github.com/effa/ib111/blob/master/cviceni-06.md)
+
+Doplňující zdroje ke cvičení
+----------------------------
+* [Binární vyhledávání (video)](https://www.youtube.com/watch?v=i2oBKUScQb0)
+* [Řazení (video)](https://www.youtube.com/watch?v=-Yr8CSmkv44)
+* [Insert-sort with Romanian folk dance (video)](https://www.youtube.com/watch?v=ROalU379l3U)
+
 
 Ankety: [socrative.com](http://b.socrative.com/login/student/) (classroom: ib111)
 
