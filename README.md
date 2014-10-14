@@ -8,8 +8,14 @@ Cvičení
 * [3. cvičení](https://github.com/effa/ib111/blob/master/cviceni-03.md)
 * [4. cvičení](https://github.com/effa/ib111/blob/master/cviceni-04.md)
 * [5. cvičení](https://github.com/effa/ib111/blob/master/cviceni-05.md)
+* [6. cvičení](https://github.com/effa/ib111/blob/master/cviceni-06.md)
 
-Ankety: [socrative.com](http://b.socrative.com/login/student/) (classroom: ib111)
+Doplňující zdroje ke cvičení
+----------------------------
+* [Binární vyhledávání (video)](https://www.youtube.com/watch?v=i2oBKUScQb0)
+* [Řazení (video)](https://www.youtube.com/watch?v=-Yr8CSmkv44)
+* [Insert-sort with Romanian folk dance (video)](https://www.youtube.com/watch?v=ROalU379l3U)
+
 
 Úkoly
 -----
@@ -89,3 +95,6 @@ Motivace
 * [TED video: A 12-year-old app developer](http://www.ted.com/talks/thomas_suarez_a_12_year_old_app_developer)
 * [What is Programming? (Khan Academy)](https://www.khanacademy.org/computing/cs/programming/intro-to-programming/v/programming-intro)
 * [Výroky slavných osobností o programování](http://code.org/quotes)
+
+
+Ankety: [socrative.com](http://b.socrative.com/login/student/) (classroom: ib111)
