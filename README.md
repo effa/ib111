@@ -21,6 +21,7 @@ Doplňující zdroje ke cvičení
 -----
 * [1. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-01.md)
 * [2. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-02.md)
+* [3. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-03.md)
 
 Základní zdroje informací
 -------------------------
