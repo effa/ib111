@@ -4,10 +4,9 @@
 (hard deadline: neděle 2. 11.)
 
 Zaregistrujte se na stránce [http://tutor.fi.muni.cz](http://tutor.fi.muni.cz),
-jako login zvolte svoje UČO (pro studenty střední školy, kteří UČO nemají:
-zvolte jakýkoliv login, ale vyplňte i své jméno a příjmení). Po registraci
-přejděte do sekce *Můj účet* a v části pojmenované *Pokud používáte Tutora na
-škole* vložte kód naší skupiny: **ib111-08-2014**
+jako login zvolte svoje UČO a vyplňte jméno a příjmení. Po registraci
+přejděte do sekce *Můj účet* a v části pojmenované *"Pokud používáte Tutora na
+škole"* vložte kód naší skupiny: **ib111-08-2014**
 
 Vyřešte co nejvíce úloh ze sekce _Interaktivní Python_ (dostanete se tam buď z
 rozcestníku problémů nebo prostě kliknutím na *Výukový mód*. Za každou vyřešenou
