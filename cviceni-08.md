@@ -1,7 +1,11 @@
 # Cvičení 8: Rekurze
 
+    Syn: Kolik otoček potřebuju na zašroubování žárovky?
+    Otec: Pokud už je zašroubovaná, tak 0.
+          Jinak ji zatoč jednou, zeptej se mě znova a k mé odpovědi přičti 1.
 
-Rekurze je použití X v definici X. Můžeme třeba definovat funkci
+Rekurze je využití sebe sama. Typickými příkladem je rekurzivní definice, tedy
+použití X v definici X. Můžeme třeba definovat funkci
 faktoriál pomocí funkce faktoriál:
 
 ```
