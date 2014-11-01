@@ -18,11 +18,11 @@ Vaším úkolem je implementovat:
   tahu. Plán je reprezentován polem znaků `X` (křížek) a `_` (neobsazené
   pole).
 
-
-    >>> plan = ['_', '_', '_', 'X', 'X', '_', '_', 'X']
-    >>> strategie(plan)
-    2
-
+```
+>>> plan = ['_', '_', '_', 'X', 'X', '_', '_', 'X']
+>>> strategie(plan)
+2
+```
 
 * Funkci `piskvorky(velikost_planu, zacina_hrac=True)`, která umožňuje hrát hru
   jednorozměřných piškvorek s počítačem. Můžete předpokládat, že zadaná
