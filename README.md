@@ -11,6 +11,7 @@ Cvičení
 * [6. cvičení](https://github.com/effa/ib111/blob/master/cviceni-06.md)
 * [7. cvičení](https://github.com/effa/ib111/blob/master/cviceni-07.md)
 * [8. cvičení](https://github.com/effa/ib111/blob/master/cviceni-08.md)
+* [9. cvičení](https://github.com/effa/ib111/blob/master/cviceni-09.md)
 
 Doplňující zdroje ke cvičení
 ----------------------------

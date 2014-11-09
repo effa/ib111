@@ -128,6 +128,10 @@ mnozina.update([1, 3, 10, 15])
 mnozina.remove(5)
 # mnozina: {1, 3, 6, 10, 15}
 
+# zjisteni velikosti mnoziny
+pocet_prvku = len(mnozina)
+# pocet_prvku: 5
+
 # test vyskytu
 if 10 in mnozina:
   print '10 je prvkem mnoziny'
@@ -221,13 +225,10 @@ operace sčítání, odčítání a násobení.
 ```
 >>> vyhodnot("3 2 +")
 5
-
 >>> vyhodnot("3 2 -")
 1
-
 >>> vyhodnot("2 3 -")
 -1
-
 >>> vyhodnot("1 5 + 10 8 - *")
 12
 ```
