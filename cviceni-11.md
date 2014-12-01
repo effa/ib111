@@ -75,7 +75,7 @@ import re
 
 # vraci True, pokud zadany retezec reprezentuje cele cislo, jinak False
 def is_integer(string):
-    return bool(re.search('^-?\d+$', string))
+    return bool(re.search(r'^-?\d+$', string))
 
 >>> is_integer('42')
 True
@@ -100,7 +100,7 @@ def search_in_file(pattern, file_name):
         if re.search(pattern, line):
             print line
 
->>> search_in_file('^T.*m$', 'names.txt')
+>>> search_in_file(r'^T.*m$', 'names.txt')
 Tom
 Tim
 Tam
@@ -111,7 +111,7 @@ Nalezení všech výskytů:
 
 ```python
 # nalezeni vsech cisel v textu
->>> print re.findall('\d+', 'aaa 123 bb 1560 72 k')
+>>> print re.findall(r'\d+', 'aaa 123 bb 1560 72 k')
 ['123', '1560', '72']
 ```
 
@@ -137,7 +137,7 @@ nejméně), lze použít nehladové verze kvantifikátorů přídáním otazník
 ```python
 # najde vsechny texty v uvozovkach
 def quotes(text):
-    return re.findall('"(.*?)"', text)
+    return re.findall(r'"(.*?)"', text)
 
 >>> quotes('abc "def" ghij "klmno"')
 ['def', 'klmno']
@@ -149,7 +149,7 @@ komentáře.
 ```python
 import re
 
-ROMAN_NUMERAL_RE = re.compile("""
+ROMAN_NUMERAL_RE = re.compile(r"""
     ^
     M*                              # tisice (libovolny pocet)
     (C{0,3} | CD | DC{0,3} | CM)    # stovky (000 - 900)
@@ -174,7 +174,7 @@ Pro vymýšlení a testování regulárních výrazů použijte
 prvků regulárních výrazů.
 Podrobnější informace najdete třeba v tomto
 [cheatsheetu](https://cloud.github.com/downloads/tartley/python-regex-cheatsheet/cheatsheet.pdf)
-nebo v [referenčním manuálu](http://docs.python.org/2/library/re.html)
+nebo v [dokumentaci](http://docs.python.org/2/library/re.html).
 
 ### Práce s odkazy
 
@@ -208,6 +208,7 @@ Všimněte si použití nehladového kvantifikátoru `*?`, proč je to důležit
 
 Stáhněte si
 [seznam anglických jmen](https://github.com/effa/ib111/blob/master/names.txt).
+
 Nejprve ho zpracujte tak, aby jména měla pouze první počáteční písmeno (JOHN
 -> John) a seřaďte jména v souboru podle abecedy.
 
@@ -215,7 +216,7 @@ Nyní napište funkci, která vypíše všechna jména, která splňují zadaný
 Pokud by vám to nešlo, podívejte se na výše uvedenou funkci
 `search_in_file(pattern, file_name)`.
 
-Pomocí tétu funkce najděte (v příkazové řádce) všechna jména, která:
+Pomocí této funkce najděte (v příkazové řádce) všechna jména, která:
 
 * obsahují `oo`
 * obsahují alespoň 3 znaky `o` (ne nutně po hned sobě)
@@ -226,8 +227,8 @@ Pomocí tétu funkce najděte (v příkazové řádce) všechna jména, která:
 * kromě prvního a posledního písmene obsahují pouze samohlásky a mají přesně 5
   písmen
 * začínají a končí na `A` a mají nejvýše 4 písmena
-* začínají na N nebo M a obsahjí alespoň 5 samohlásek
-* kromě `a` můžou obsahovat nejvýše 2 jiná písmena, což ale můžou být jedině
+* \* začínají na N nebo M a obsahují alespoň 5 samohlásek
+* \* kromě `a` můžou obsahovat nejvýše 2 jiná písmena, což ale můžou být jedině
   `l`, `m` nebo `n`
 
 
@@ -304,9 +305,9 @@ tak, aby matchovala i znak nového řádku.
 ```python
 with open("List_of_countries_by_population.html") as f:
     text = f.read()
-    table = re.search("<table class=\"wikitable sortable.*?>(.*?)</table>",
+    table = re.search(r'<table class="wikitable sortable.*?>(.*?)</table>',
                       text, re.DOTALL).group(1)
-    rows = re.findall("<tr>(.*?)</tr>", table, re.DOTALL)
+    rows = re.findall(r'<tr>(.*?)</tr>', table, re.DOTALL)
     for row in rows[1:]:
         print row
 ```
@@ -324,9 +325,10 @@ vytáhne jména všech laboratoří a k nim příslušné kontakty a webové str
 
 ### Regulární výrazy
 
-Regex golf na [https://regex.alf.nu/] (https://regex.alf.nu/)
-nebo sada úloh Regulární výrazy na
-[http://tutor.fi.muni.cz/] (http://tutor.fi.muni.cz/).
+* regex golf: [https://regex.alf.nu/](https://regex.alf.nu/)
+* regex crosswords: [http://regexcrossword.com/](http://regexcrossword.com/)
+* sada úloh Regulární výrazy na [http://tutor.fi.muni.cz/](http://tutor.fi.muni.cz/).
+
 
 ### Zpracovaní CSV
 

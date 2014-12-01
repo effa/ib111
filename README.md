@@ -28,6 +28,9 @@ Doplňující zdroje ke cvičení
 * [Řazení (video)](https://www.youtube.com/watch?v=-Yr8CSmkv44)
 * [Insert-sort with Romanian folk dance (video)](https://www.youtube.com/watch?v=ROalU379l3U)
 * [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
+* [Pythex: testovátko regulárních výrazů](http://pythex.org/)
+* [Regex Crosswords](http://regexcrossword.com/)
+* [Regex Golf](https://regex.alf.nu/)
 
 Základní zdroje informací
 -------------------------
