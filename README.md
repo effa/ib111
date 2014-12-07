@@ -13,6 +13,7 @@ Cvičení
 * [8. cvičení](https://github.com/effa/ib111/blob/master/cviceni-08.md)
 * [9. cvičení](https://github.com/effa/ib111/blob/master/cviceni-09.md)
 * [11. cvičení](https://github.com/effa/ib111/blob/master/cviceni-11.md)
+* [12. cvičení](https://github.com/effa/ib111/blob/master/cviceni-12.md)
 
 Úkoly
 -----
@@ -21,6 +22,7 @@ Cvičení
 * [3. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-03.md)
 * [4. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-04.md)
 * [5. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-05.md)
+* [6. domácí úloha](https://github.com/effa/ib111/blob/master/uloha-06.md)
 
 Doplňující zdroje ke cvičení
 ----------------------------
