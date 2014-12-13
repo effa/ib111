@@ -14,6 +14,7 @@ Cvičení
 * [9. cvičení](https://github.com/effa/ib111/blob/master/cviceni-09.md)
 * [11. cvičení](https://github.com/effa/ib111/blob/master/cviceni-11.md)
 * [12. cvičení](https://github.com/effa/ib111/blob/master/cviceni-12.md)
+* [13. cvičení](https://github.com/effa/ib111/blob/master/cviceni-13.md)
 
 Úkoly
 -----
