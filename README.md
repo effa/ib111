@@ -1,14 +1,15 @@
 IB111 Základy programování
 ==========================
 
-* [Stránky předmětu](http://www.fi.muni.cz/IB111/)
+* [Stránka předmětu](http://www.fi.muni.cz/IB111/)
 * [Sbírka úloh](http://www.fi.muni.cz/IB111/sbirka/)
 
 
 Domácí příprava
 --------------------
-* Před prvním cvikem: Nainstalovat si Python 3 (součástí je i jednoduché vývojové prostředí IDLE). Ujistit se, že se umíte přihlásit na počítač v učebně a spustit IDLE.
-* Každý týden: Vyřešit si samostatně všechny úlohy ze [sbírky](http://www.fi.muni.cz/IB111/sbirka/) k tématu z předchozího týdne. Projít si kontrolní otázky a úvodní text kapitoly sbírky k nadcházejícímu cviku.
+* Každý týden: Vyřešit si samostatně všechny úlohy ze [sbírky](http://www.fi.muni.cz/IB111/sbirka/) k tématu z předchozího týdne.
+  Projít si [kontrolní otázky](https://docs.google.com/document/d/19VeL15P5s8rv-YoCMwpIiQD34ptn6bevJKsV7mBD-Uo/view)
+  a úvodní text kapitoly sbírky k nadcházejícímu cviku.
 * Občasně: odevzdávané domácí úlohy, viz níže.
 * Podle chuti a potřeby: tutoriály, kurzy a řešení dalších úloh k procvičování, viz níže.
 
@@ -24,7 +25,17 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 
 Domácí úlohy
 ------------
-Budou.
+
+Tabulka odkazuje na zadání domácích úloh a uvádí termín odevzdání (soft deadline).
+Pro případ nouze bude každou domácí úlohu možné odevzdat ještě během týdne následujícího po tomto termínu.
+
+|     | Zadání | Odevzdání |
+| --- | --- | --- |
+| 1   | [Jednoduché posloupnosti a obrázky](homeworks/homework_01.md)  | neděle 1. 10. |
+| 2   | 1D hra | neděle 15. 10. |
+| 3   | 2D hra | neděle 12. 11. |
+| 4   | Objekty | neděle 3. 12. |
+| 5   | Zpracování dat a obrázků | neděle 17. 12. |
 
 Tutoriály, kurzy a hry
 ----------------------
