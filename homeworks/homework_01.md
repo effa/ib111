@@ -3,7 +3,7 @@
 * Termín odevzdání: neděle 1. 10 (soft deadline). Pro případ nouze bude odevzdávárna otevřená až do 8. 10. (hard deadline). Později už úlohu odevzdat nepůjde.
 * Úloha se skládá z 5 příkladů, za každý můžete získat 5 bodů, takže celkem až 25 bodů.
 * Odevzdejte jediný soubor `homework_01.py` s implementací požadovaných funkcí. Funkce pojmenujte stejně jako v zadání.
-* Můžete použít připravenou [kostru programu](`homework_01.py`).
+* Můžete použít připravenou [kostru programu](homework_01.py).
 * Odevzdávárna: [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 1](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw1).
 * Pište přehledný kód, používejte vhodná jména proměnných a případné složitější konstrukce opatřete komentářem.
 * Nepoužívejte diakritiku (ani v komentářích).
