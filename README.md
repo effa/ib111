@@ -20,8 +20,9 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 
 |     | Téma | Příklady |
 | --- | --- | --- |
-| 1   | [Želví grafika](http://www.fi.muni.cz/IB111/sbirka/01-zelvi_grafika.html)  | 1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2 |
-| 2   | [Základní struktury](http://www.fi.muni.cz/IB111/sbirka/02-zakladni_struktury.html)  | 2.1.1, 2.1.2, 2.1.4, 2.2.1, 2.3.1, 2.3.5 |
+| 1   | [Želví grafika](http://www.fi.muni.cz/IB111/sbirka/01-zelvi_grafika.html) | 1.1.1, 1.1.2, 1.1.3, 1.1.4, 1.2.1, 1.2.2 |
+| 2   | [Základní struktury](http://www.fi.muni.cz/IB111/sbirka/02-zakladni_struktury.html) | 2.1.1, 2.1.2, 2.1.4, 2.2.1, 2.3.1, 2.3.5 |
+| 3   | [Jednoduché výpočty](http://www.fi.muni.cz/IB111/sbirka/03-jednoduche_vypocty.html) | 3.1.1, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.8, 3.2.10, 3.2.12, 3.3.2 |
 
 Domácí úlohy
 ------------
