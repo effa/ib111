@@ -7,7 +7,7 @@
 * Odevzdávárna: [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 1](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw1).
 * Pište přehledný kód, používejte vhodná jména proměnných a případné složitější konstrukce opatřete komentářem.
 * Nepoužívejte diakritiku (ani v komentářích).
-* Pokud se vám nějakou úlohu nepodaří úplně vyřešit, tak nezoufejte, zkuste si zadaný problém zjednodušit a vyřešit tento zjednodušený problém. Do komentáře pak napište, v čem zjednodušení spočívá (např. "Vykresli obdelnik pozadovane velikosti, ale bez pruhu.") a úplně nejlépe zkuste taky popsat překážku, kvůli které se vám nedaří vyřešit původní problém rozsahu.
+* Pokud se vám nějakou úlohu nepodaří úplně vyřešit, tak nezoufejte, zkuste si zadaný problém zjednodušit a vyřešit tento zjednodušený problém. Do komentáře pak napište, v čem zjednodušení spočívá (např. "Vykresli obdelnik pozadovane velikosti, ale bez pruhu.") a úplně nejlépe zkuste taky popsat překážku, kvůli které se vám nedaří vyřešit původní problém v plném rozsahu.
 * Úlohy vypracovávejte zcela samostatně.
 * Řešení domácích úloh si užívejte :-)
 
