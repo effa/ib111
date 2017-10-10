@@ -2,7 +2,7 @@
 * Termín odevzdání: soft deadline je 15.10., ale odevzdávat můžete až do 22.10.
 * Za úlohu můžete dostat až 25 bodů
 * Budete odevzdávat jeden soubor `homework_02.py` s funkcemi pojmenovanými podle zadání
-* Odevzdávárna  [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 2](/el/1433/podzim2017/IB111/ode/s03/ode_hw2/)
+* Odevzdávárna  [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 2](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw2/)
 * Funkce a proměnné pojmenovávejte výstižně, ale stručně
 * Snažte se držet společného jazyka programátorů (angličtiny) jak v kódu, tak i ve výpisu
 * Komentáře jsou jako sůl. Je potřeba, ale neobraťte tam celou solničku ;)
