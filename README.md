@@ -49,6 +49,7 @@ Tutoriály, kurzy a hry
 
 Úlohy k procvičování
 --------------------
+* [Seznam úloh na 1. vnitro](https://docs.google.com/document/d/1j6eVw1q_UNWmbDjoUUketnJ0QoJdHz5pRoSjR_YHiyo)
 * [Programátorská cvičebnice](http://www.radekpelanek.cz/?progcvic)
 * [HackerRank &ndash; programming challanges](https://www.hackerrank.com)
 * [Problem Solving Tutor](http://tutor.fi.muni.cz/)
