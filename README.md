@@ -25,6 +25,7 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 | 3   | [Jednoduché výpočty](http://www.fi.muni.cz/IB111/sbirka/03-jednoduche_vypocty.html) | 3.1.1, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.8, 3.2.10, 3.2.12, 3.3.2 |
 | 4   | [Náhodná čísla](http://www.fi.muni.cz/IB111/sbirka/04-nahodna_cisla.html) | 4.1.1, 4.1.3, 4.1.6, 4.2.1, 4.2.2 |
 | 5   | [Řetězce a seznamy](http://www.fi.muni.cz/IB111/sbirka/05-retezce_a_seznamy.html) | 5.1.1, 5.1.3, 5.2.1, 5.2.5, 5.2.6, 5.2.8, 5.3.1 |
+| 6   | [Binární vyhledávání](http://www.fi.muni.cz/IB111/sbirka/06-binarni_vyhledavani.html) | 6.1.1, 6.1.2, 6.2.1, 6.2.2, 6.2.3 |
 
 Domácí úlohy
 ------------
