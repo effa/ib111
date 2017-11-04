@@ -27,6 +27,7 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 | 5   | [Řetězce a seznamy](http://www.fi.muni.cz/IB111/sbirka/05-retezce_a_seznamy.html) | 5.1.1, 5.1.3, 5.2.1, 5.2.5, 5.2.6, 5.2.8, 5.3.1 |
 | 6   | [Binární vyhledávání](http://www.fi.muni.cz/IB111/sbirka/06-binarni_vyhledavani.html) | 6.1.1, 6.1.2, 6.2.1, 6.2.2, 6.2.3 |
 | 7   | [Algoritmy nad seznamy](http://www.fi.muni.cz/IB111/sbirka/07-seznamy_algoritmy.html) | vnitrozávod, 7.2.1, 7.2.2, 7.2.3, (7.1.3) |
+| 8   | [Datové struktury](http://www.fi.muni.cz/IB111/sbirka/09-datove_struktury.html) | 9.1.1, 9.2.2, 9.3.2, tic-tac-toe |
 
 Domácí úlohy
 ------------
