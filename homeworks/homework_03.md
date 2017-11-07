@@ -17,7 +17,7 @@ Hru hrají dva hráči, kteří střídavě do hracího pole umisťují svoje hr
 * pro počítačového hráče nejdříve implementujte strategii, která hraje náhodně, lepší můžete udělat později
 
 ### Kostra
-* [kostra](homeworks/homework_03.py)
+* [kostra](homework_03.py)
 * v kostře máte předdefinované hlavičky několika funkcí, ale určitě můžete (a měli byste) si dělat i nějaké pomocné funkce
 * nemusíte se omezovat na `human_play` a `computer_play`, můžete si naprogramovat i další (např. `better_computer_play`)
 
