@@ -2,7 +2,7 @@
 * soft deadline je 12. 11., nejpozději však odevzdávejte do 19. 11.
 * úloha je za 30 bodů
 * odevzdávejte jeden soubor pojmenovaý `homework_03.py`
-* odevzdávárna [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 2](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw3/)
+* odevzdávárna [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 3](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw3/)
 * nezapomeňte program psát pěkně, hezky dělit na funkce a rozumně komentovat
 
 ## Connect four
@@ -17,7 +17,7 @@ Hru hrají dva hráči, kteří střídavě do hracího pole umisťují svoje hr
 * pro počítačového hráče nejdříve implementujte strategii, která hraje náhodně, lepší můžete udělat později
 
 ### Kostra
-* [kostra](homeworks/homework_03_kostra.py)
+* [kostra](homeworks/homework_03.py)
 * v kostře máte předdefinované hlavičky několika funkcí, ale určitě můžete (a měli byste) si dělat i nějaké pomocné funkce
 * nemusíte se omezovat na `human_play` a `computer_play`, můžete si naprogramovat i další (např. `better_computer_play`)
 
