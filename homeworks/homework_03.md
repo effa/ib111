@@ -15,7 +15,7 @@ Hru hrají dva hráči, kteří střídavě do hracího pole umisťují svoje hr
 * herní pole si reprezentujte jako pole polí po řádcích
 * pro lidského hráče vypisujte nějaký dotaz na zadání sloupce
 * pro počítačového hráče nejdříve implementujte strategii, která hraje náhodně, lepší můžete udělat později
-* [tady] (https://github.com/effa/ib111/blob/master/ticTacToe.py) máte kód na piškvorky, který jsme si ukazovali na cviku
+* [tady](https://github.com/effa/ib111/blob/master/ticTacToe.py) máte kód na piškvorky, který jsme si ukazovali na cviku
 
 ### Kostra
 * [kostra](homework_03.py)
