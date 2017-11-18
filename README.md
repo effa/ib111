@@ -25,6 +25,10 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 | 3   | [Jednoduché výpočty](http://www.fi.muni.cz/IB111/sbirka/03-jednoduche_vypocty.html) | 3.1.1, 3.1.3, 3.2.1, 3.2.2, 3.2.3, 3.2.4, 3.2.8, 3.2.10, 3.2.12, 3.3.2 |
 | 4   | [Náhodná čísla](http://www.fi.muni.cz/IB111/sbirka/04-nahodna_cisla.html) | 4.1.1, 4.1.3, 4.1.6, 4.2.1, 4.2.2 |
 | 5   | [Řetězce a seznamy](http://www.fi.muni.cz/IB111/sbirka/05-retezce_a_seznamy.html) | 5.1.1, 5.1.3, 5.2.1, 5.2.5, 5.2.6, 5.2.8, 5.3.1 |
+| 6   | [Binární vyhledávání](http://www.fi.muni.cz/IB111/sbirka/06-binarni_vyhledavani.html) | 6.1.1, 6.1.2, 6.2.1, 6.2.2, 6.2.3 |
+| 7   | [Algoritmy nad seznamy](http://www.fi.muni.cz/IB111/sbirka/07-seznamy_algoritmy.html) | vnitrozávod, 7.2.1, 7.2.2, 7.2.3, (7.1.3) |
+| 8   | [Datové struktury](http://www.fi.muni.cz/IB111/sbirka/09-datove_struktury.html) | 9.1.1, 9.2.2, 9.3.2, tic-tac-toe |
+| 9   | [Rekurze](http://www.fi.muni.cz/IB111/sbirka/08-rekurze.html) | 8.1.1, 8.1.2, 8.1.4, 8.2.1, 8.3.1, 8.3.2, 8.3.3  |
 
 Domácí úlohy
 ------------
@@ -35,8 +39,8 @@ Pro případ nouze bude každou domácí úlohu možné odevzdat ještě během 
 |     | Zadání | Odevzdání |
 | --- | --- | --- |
 | 1   | [Posloupnosti a obrázky](homeworks/homework_01.md)  | neděle 1. 10. |
-| **2**   | **[1D hra](https://github.com/effa/ib111/blob/master/homeworks/homework_02.md)** | **neděle 15. 10.** |
-| 3   | 2D hra | neděle 12. 11. |
+| 2   | [1D hra](homeworks/homework_02.md) | neděle 15. 10. |
+| **3**   | **[2D hra](homeworks/homework_03.md)** | **neděle 12. 11.** |
 | 4   | Objekty | neděle 3. 12. |
 | 5   | Zpracování dat a obrázků | neděle 17. 12. |
 
