@@ -1,0 +1,34 @@
+=== People ===
+Martin,1991,phd
+Maara,1989,phd
+Tom,1993,mgr
+Jan,1993,bc
+Honza,1995,mgr
+Lukas,1991,phd
+Vlada,1991,phd
+Radka,1994,mgr
+Katka,1994,mgr
+Dominika,1995,bc
+Viki,1995,mgr
+Anicka,1997,bc
+Tyna,1993,bc
+Ondra,1997,bc
+=== Mentors ===
+Martin->Maara
+Martin->Tom
+Martin->Lukas
+Maara->Jan
+Lukas->Vlada
+Tom->Honza
+Lukas->Radka
+Tom->Katka
+Radka->Dominika
+Radka->Viki
+Radka->Anicka
+Radka->Tyna
+Honza->Ondra
+=== Teams ===
+KSI:Honza,Dominika,Anicka,Ondra,Vlada,Viki
+InterSoB:Dominika,Radka,Lukas,Tom
+InterLoS:Radka,Dominika,Jan,Katka,Vlada
+PoznejFI:Maara,Martin,Anicka,Tom,Tyna
