@@ -2,6 +2,7 @@
 * Termín odevzdání: neděle 3. 12 (soft deadline).
 * Pro případ nouze bude odevzdávárna otevřená až do 10. 12. (hard deadline).
 * Odevzdejte jediný soubor `homework_04.py` s implementací požadovaných metod a funkcí.
+* Vyjděte z [připravené kostry](homework_04.py), zachovejte hlavičky funkcí, dokumentační řetězce i testy.
 * Odevzdávárna:
   [IS / Student / FI:IB111 / Odevzdávárny / Domácí úloha 4](https://is.muni.cz/auth/el/1433/podzim2017/IB111/ode/s03/ode_hw4/)
 * Pište přehledný kód, používejte vhodná jména proměnných, odstraňte duplicitní kód.
@@ -69,7 +70,7 @@ zakomentujte před odevzdáním část metody `main` tak, aby byl soubor spustit
 ## Sebehodnocení
 Před odevzdáním doplňte na začátek souboru komentář s odhadem získaných bodů.
 Vzhledem k tomu, že by počet bodů měl jít přímočaře spočítat z počtu
-chybějících `TODO`, zkuste případnou odchylku stručně vysvětlit.
+zbývajících `TODO`, zkuste případnou odchylku stručně vysvětlit.
 
 
 ## Vzorový výstup
