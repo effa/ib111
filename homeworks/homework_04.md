@@ -45,8 +45,8 @@ jsou A, B, C (a všichni další mentorovaní těchto osob a jejich mentorovaní
 
 ## Kostra
 Vyjděte z [připravené kostry](homework_04.py), zachovejte hlavičky funkcí, dokumentační řetězce i testy.
-Z kostry maže pouze zástupné `pass` a `TODO` značky -
-ty ale mažte až poté, co danou metodu či funkci implementujete.
+Z kostry můžete mazat pouze příkazy `pass` a `TODO` značky -
+ty ale smažte až poté, co danou metodu či funkci implementujete.
 Pokud některou funkci zvládnete implementovat jen částečně (např. bude fungovat jen pro některé vstupy), tak `TODO` komentář v kódu ponechte a doplňte jej o popis, co už vaše funkce umí a co jí chybí k dokonalosti.
 
 Kostra obsahuje funkci `main()`,
