@@ -1,27 +1,81 @@
-       /-/--\
-     (@~@) ' )/\
- ___/--  ,` '\  >
-(oo)__ _  ,` '}/
- ^^___/ '   ' \  _
-       \ ' , , }/ \
-        (,     )   }
-        | , ' , \_/
-        /   ,  ` \  __
-  ,     ( ,  , `  )/  \
-__)----/ ' (  ) ' |    }
-==-___( , / '`/` , \__/
- '  , { _^ ',) ,  ' } __
-  __)---  , _>  ,' ,\/  \
-  ==-______/&        |   }            _/-\_
-   '  { ' , ', ' '  , \_/            / ' , \_ 
-      | ,       ' `    )          __| ' _ `  |
-      |   ,(' ,')  ' ,  }-\       \/ ' ( ) ` \
-       (` (  ,  ,)      \  }      {','/   \ ' }
-       | ,( `   ,) '  ,` \/    __{ , {     {`,|
-       \  ( , ', )  '  '  |    \/   /      (  )
-     ___\( `,   {  ,  ' ' )/\__{ ', }       `'
-   =-     (, ; (__  ,  ,  '` '   ,,'
-   =_____-(   )   \__ `  '  , `  /
-       ___\ ' ;)     `---_____,-'
-     =-    '___/
-     =_____---
+POKYNY
+
+- na vypracování máte 100 minut čistého času
+- každý úkol je hodnocen 20 body, můžete tedy získat až 100 bodů
+- můžete pužívat libovolné materiály, ale musíte je chápat
+- s nikým nekomunikujte (ústě, po internetu, holubem, ...) ani neopisujte
+- funkce pojmenovávejte přesně tak, jak jsou v zadání
+- hodně štěstí
+
+ZADÁNÍ
+
+1. naprogramujte funkce maximums(a), která bere seznam seznamů a vrací seznam největšího prvku v každém seznamu
+
+př.: [[1, 2, 3], [-7, 100], [6, 2, 4], [2]] -> [3, 100, 6, 2]
+
+
+2. napište funkci rec_odd_sum(a), která bere seznam čísel a vrací součet všech lichých čísel v seznamu, nesmíte použít funkci sum, musíte použít rekurzi
+
+př.:
+[7, 3, 4, 1] -> 11
+[2, 4, 6] -> 0
+
+
+3. napište funkci d_20(n), která provede n hodů férovou dvacetistěnnou (20) kostkou a vypíše (v tomto pořadí, každou informaci na jeden řádek):
+průměrnou hodnotu,
+nejčastější hodnotu, (pokud bude více stejně častých, vypisujte největší z nich)
+nejméně častou hodnotu, která padla alespoň jednou,
+kolik různých hodnot padlo alespoň jednou
+
+využijte vhodnou dekompozici na funkce
+
+př.: d_20(5) # padlo 3, 3, 4, 8, 15
+6.6
+3
+15
+4
+
+
+4. napište funkci n_gram(s, n), která bere řetězec (můžete předpokládat, že obsahuje pouze písmena a mezery) a vypište všechny n-tice po sobě jdoucích písmen a kolikrát jsou v řetězci, seřazených od nejčetnějších sestupně (stejně časté budou seřazené abecedně)
+
+př.: "ananas", 2 ->
+an 2
+na 2
+as 1
+
+
+5. pro následující kód:
+
+class Song:
+    def __init__(self, name, genre, rating):
+        self.name = name # retezec
+        self.genre = genre # retezec
+        self.rating = rating # cele cislo od 0 do 10
+
+class Band:
+    def __init__(self, name, songs):
+        self.name = name # retezec
+        self.songs = songs # seznam prvku typu Song
+
+napište funkci:
+- best_song_of_band(band), která vrátí jméno nejlépe hodnocené skladby zadané skupiny, pokud bude více skladeb se stejným názvem, vracejte první v abecedě podle názvu
+- band_genres(band), která vrátí seznam žánrů, které zadaná skupina hraje, seřazených abecedně
+- best_bands(bands), která ze seznamu skupin vrátí seznam jmen skupin s největším průměrem hodnocením skladeb, seznam seřaďte abecedně podle názvu
+
+zde máte předepsaná nějaká data na testování:
+
+s0 = Song("We are the Champions", "rock", 9)
+s1 = Song("We Will Rock You", "rock", 9)
+s2 = Song("I Want to Break Free", "pop", 6)
+s3 = Song("Karhunkaatolaulu", "folk-metal", 7)
+s4 = Song("Kicking the Trash Can", "random sounds", 2)
+s5 = Song("Dropping Rocks on the Pavement", "random sounds", 0)
+s6 = Song("Viinamaen mies", "folk-metal", 9)
+
+b0 = Band("Queen", [s0, s1, s2]
+b1 = Band("Korpiklaani", [s3, s6])
+b2 = Band("Bobby's Bad Band", [s4, s5])
+
+best_song_of_band(b1) # "Viinamaen mies"
+band_genres(b0) # ["pop", "rock"]
+best_bands([b0, b1, b2]) # ["Korpiklaani", "Queen"]
