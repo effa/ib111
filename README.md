@@ -31,6 +31,7 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 | 9   | [Rekurze](http://www.fi.muni.cz/IB111/sbirka/08-rekurze.html) | 8.1.1, 8.1.2, 8.1.4, 8.2.1, 8.3.1, 8.3.2, 8.3.3  |
 | 10  | [Objekty](https://www.fi.muni.cz/IB111/sbirka/10-objekty_a_tridy.html) | 10.1.2, 10.1.3, 10.2.1, 10.2.7  |
 | 11  | [Zpracování textu](./week11/week11.py) | 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 11.7  |
+| 11  | Vnitrosemestrální test | (druhý)  |
 
 Domácí úlohy
 ------------
