@@ -32,6 +32,7 @@ Následující tabulka odkazuje na kapitolu ze [sbírky](http://www.fi.muni.cz/I
 | 10  | [Objekty](https://www.fi.muni.cz/IB111/sbirka/10-objekty_a_tridy.html) | 10.1.2, 10.1.3, 10.2.1, 10.2.7  |
 | 11  | [Zpracování textu](./week11/week11.py) | 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 11.7  |
 | 12  | Vnitrosemestrální test | (druhý)  |
+| 13  | [Bitmapová grafika](https://www.fi.muni.cz/IB111/sbirka/12-bitmapova_grafika.html) | 12.1.1, 12.1.6, 12.2.1, 12.2.3, 12.2.4., 12.1.7, (12.1.9, 12.1.10) |
 
 Domácí úlohy
 ------------
