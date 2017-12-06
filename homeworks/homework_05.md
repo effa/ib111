@@ -106,6 +106,7 @@ draw_function(hill)
 
 
 ![funkční krajina](./functional-landscape.jpg)
+![funkční krajina - kopec](./hill.jpg)
 
 
 ### Želvy (15 bodů)
