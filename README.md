@@ -45,8 +45,8 @@ Pro případ nouze bude každou domácí úlohu možné odevzdat ještě během 
 | 1   | [Posloupnosti a obrázky](homeworks/homework_01.md)  | neděle 1. 10. |
 | 2   | [1D hra](homeworks/homework_02.md) | neděle 15. 10. |
 | 3   | [2D hra](homeworks/homework_03.md) | neděle 12. 11. |
-| **4** | **[Objekty](homeworks/homework_04.md)** | **neděle 3. 12.** |
-| 5   | Text a obrázky | neděle 17. 12. |
+| 4 | [Objekty](homeworks/homework_04.md) | neděle 3. 12. |
+| **5**   | **[Text a obrázky](homeworks/homework_05.md)** | **neděle 17. 12.** |
 
 Tutoriály, kurzy a hry
 ----------------------
